@@ -16,7 +16,7 @@ Este projeto tem como objetivo analisar os impactos econômicos globais decorren
    - Nikkei 225  
 5. **Câmbio dos países diretamente envolvidos**:
    - Shekel israelense (ILS)  
-   - Rial iraniano (IRR)  
+   - Rial iraniano (não foi possível extrair os dados) 
 6. **Impacto no Brasil**:
    - Houve alta no preço da gasolina?  
    - As ações da Petrobras apresentaram valorização?
